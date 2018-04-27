@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1495456217 source:c:\users\selcan kebelioðlu\desktop\havayolu100\main.cpp
+	<iostream>
+	<winsock.h>
+	"include/mysql.h"
+	<cstdlib>
+	<windows.h>
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1249662434 c:\users\selcan kebelioðlu\desktop\havayolu100\include\mysql_version.h
+	<custom_conf.h>
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\mysql_com.h
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\mysql_time.h
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\my_list.h
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\typelib.h
+	"my_alloc.h"
+
+1249644672 c:\users\selcan kebelioðlu\desktop\havayolu100\include\my_alloc.h
+
